@@ -2,7 +2,7 @@
 
 App Link: https://prodigy-wd-05-mauve.vercel.app/
 
-A simple and stylish weather forecasting web app built during my internship at Prodigy Infotech.
+A simple and stylish weather forecasting web app.
 
 🔧 Features
 
